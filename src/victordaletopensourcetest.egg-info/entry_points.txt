@@ -1,0 +1,2 @@
+[console_scripts]
+cellularStatus = Application:main
