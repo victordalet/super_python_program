@@ -1,11 +1,9 @@
 # open_source
 
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
-
 <br>
 Hy, This is a super open source project
 
-![](https://img.shields.io/github/stars/victordalet/open_source.svg)
+![](https://img.shields.io/github/stars/victordalet/super_python_program.svg)
 
 ## Techno
 
