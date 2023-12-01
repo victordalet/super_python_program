@@ -19,7 +19,6 @@ pip install -i https://test.pypi.org/simple/ victordaletopensourcetest==0.0.1
 ## Launch
 
 ````shell
-````shell
 docker compose up --build
 ````
 
