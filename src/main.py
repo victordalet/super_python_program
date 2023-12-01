@@ -1,6 +1,6 @@
 class Main:
     def __init__(self):
-        self.message = 'Hello world!'
+        self.message = 'Hi World!'
         self.display_message()
 
     def display_message(self):
