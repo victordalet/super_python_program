@@ -11,12 +11,13 @@ Hy, This is a super open source project
 
 
 ## Install python packages
-````shell
+```shell
 pip install -i https://test.pypi.org/simple/ victordaletopensourcetest==0.0.1
-````
+```
 
-````shell
+
 ## Launch
+
 ````shell
 docker compose up --build
 ````
