@@ -9,7 +9,16 @@ Hy, This is a super open source project
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+
+## Install python packages
+```shell
+pip install -i https://test.pypi.org/simple/ victordaletopensourcetest==0.0.1
+```
+
+
 ## Launch
+
+````shell
 ````shell
 docker compose up --build
 ````

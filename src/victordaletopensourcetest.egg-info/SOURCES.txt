@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/victordaletopensourcetest.egg-info/PKG-INFO
+src/victordaletopensourcetest.egg-info/SOURCES.txt
+src/victordaletopensourcetest.egg-info/dependency_links.txt
+src/victordaletopensourcetest.egg-info/entry_points.txt
+src/victordaletopensourcetest.egg-info/not-zip-safe
+src/victordaletopensourcetest.egg-info/top_level.txt

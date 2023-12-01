@@ -1,3 +1,4 @@
 **/*.out
 ./build/debug/*
 node_modules
+dist
